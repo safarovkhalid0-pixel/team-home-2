@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+}
+.hdf{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    margin-left: -150px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #545454;
+}
+.vi{
+    width: 200px;
+}
+.can{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+}
+.btn{
+    padding: 10px 20px;
+    background-color: #1F1F1F;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+.in{
+    font-size: 120px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    position: absolute;
+    
+}
+.step{
+    font-size: 24px;
+    color: #545454;
+    font-weight: 500;
+    width: 640px;
+    line-height: 125%;
+    font: Inter;
+    margin-bottom: 50px;
+    margin-top: 230px;
+}
+.yuz{
+    color: #545454;
+    font-size: 70px;
+    font-weight: 400;
+}
+
+.eki{
+    color: #545454;
+    font-size: 22px;
+    font-weight: 400;
+}
+.dfds{
+    display: flex;
+    gap: 50px;
+}
+.imgh1{
+    width: 600px;
+    margin-left: 200px;
+}
+.imgh2{
+    width: 700px;
+}
+.df{
+    display: flex;
+}
+.sec1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.sec1 .btn{
+    margin-bottom: 50px;
+}
+.our{
+    font-size: 58px;
+    font-weight: 600;
+    color: #1F1F1F;
+    margin-top: 120px;
+    margin-bottom: 90px;
+    margin-left: 100px;
+
+}
+.box{
+    display: flex;
+    gap: 20px;
+}
+.ligh{
+    color: #1F1F1F;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.ach{
+    font-size: 22px;
+    color: #545454;
+    font-weight: 500;
+    width: 300px;
+}
+.k{
+    margin-top: -65px;
+    width: 70px;
+}
+.sd{
+    display: flex;
+    gap: 50px;
+    margin-left: 100px;
+}
