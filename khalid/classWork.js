@@ -122,3 +122,4 @@ ad = num22>num2?num22:num2
 console.log(num3>ad?num3:ad);
 
 
+
