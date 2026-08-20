@@ -1,3 +1,4 @@
+// khalid
 console.log('\nTask 1');
 let name = "Khalid"
 console.log("Привет, "+name);
